@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6VOnQyr9S0E_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">FRIENDS</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="FRIENDS_ORG">
+    <organization identifier="FRIENDS_ORG">
+      <title>FRIENDS</title>
+      <item identifier="Friends_new_SCO" isvisible="true" identifierref="__6VOnQyr9S0E_course_id_RES">
+        <title>FRIENDS</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6VOnQyr9S0E_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6SbN6X0nk9P_RG.png" />
+      <file href="mobile/6fnATjWIKLV_RG.png" />
+      <file href="mobile/5tDTCOxHp65_RG.png" />
+      <file href="mobile/6Jt8N63dsgE_RG.png" />
+      <file href="mobile/6XewDkiu2WM_RG.png" />
+      <file href="mobile/6AZk057nj85_RG.png" />
+      <file href="mobile/5p4gePInHP0.png" />
+      <file href="mobile/60hOPELmbcw.png" />
+      <file href="mobile/5p4gePInHP0_RG.png" />
+      <file href="mobile/6SbN6X0nk9P.png" />
+      <file href="mobile/6fnATjWIKLV.png" />
+      <file href="mobile/5tDTCOxHp65.png" />
+      <file href="mobile/6AZk057nj85.png" />
+      <file href="mobile/6XewDkiu2WM.png" />
+      <file href="mobile/6Jt8N63dsgE.png" />
+      <file href="mobile/5pMxdljlCy0.png" />
+      <file href="mobile/64avy0MXkdf.png" />
+      <file href="meta.xml" />
+      <file href="mobile/6Hr2kGGDTsJ.png" />
+      <file href="story_content/url.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6FADrhcIOQJ.jpg" />
+      <file href="mobile/Shape62DFyh0GbqB.png" />
+      <file href="mobile/Shape5UrcTlAzKSf.png" />
+      <file href="mobile/Shape5wvL2EtPHRI.png" />
+      <file href="mobile/Shape6A6mvufRrwW.png" />
+      <file href="mobile/Shape5i6Fs6WFh7G.png" />
+      <file href="mobile/Shape66zbJ6JNIqF.png" />
+      <file href="mobile/Shape6MPrRYb2ye9.png" />
+      <file href="mobile/Shape5asNaSNEHgo.png" />
+      <file href="mobile/Shape5nlflgOwHMA.png" />
+      <file href="mobile/Shape5YzhoYii4RH.png" />
+      <file href="mobile/Shape5WIEWsNhvaY.png" />
+      <file href="mobile/Shape66noikRzqsz.png" />
+      <file href="mobile/Shape6DZNAklyRnS.png" />
+      <file href="mobile/Shape6iN5911kDSP.png" />
+      <file href="mobile/Shape6JmGi5UNKGU.png" />
+      <file href="mobile/Shape5auPEDvYFHE.png" />
+      <file href="mobile/Shape66ghjClffrE.png" />
+      <file href="mobile/Shape5fvnGPRyfz0.png" />
+      <file href="html5/lib/scripts/getting-started-link.html" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/docs-link.html" />
+      <file href="html5/lib/scripts/esm/Draggable.js" />
+      <file href="html5/lib/scripts/esm/.DS_Store" />
+      <file href="html5/lib/scripts/esm/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/esm/all.js" />
+      <file href="html5/lib/scripts/esm/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/esm/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/esm/TextPlugin.js" />
+      <file href="html5/lib/scripts/esm/gsap-core.js" />
+      <file href="html5/lib/scripts/esm/EasePack.js" />
+      <file href="html5/lib/scripts/esm/Observer.js" />
+      <file href="html5/lib/scripts/esm/index.js" />
+      <file href="html5/lib/scripts/esm/PixiPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSPlugin.js" />
+      <file href="html5/lib/scripts/esm/CustomEase.js" />
+      <file href="html5/lib/scripts/esm/Flip.js" />
+      <file href="html5/lib/scripts/esm/EaselPlugin.js" />
+      <file href="html5/lib/scripts/esm/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/esm/utils/matrix.js" />
+      <file href="html5/lib/scripts/esm/utils/paths.js" />
+      <file href="html5/lib/scripts/esm/utils/strings.js" />
+      <file href="html5/lib/scripts/umd/Draggable.js" />
+      <file href="html5/lib/scripts/umd/.DS_Store" />
+      <file href="html5/lib/scripts/umd/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/umd/all.js" />
+      <file href="html5/lib/scripts/umd/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/umd/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/umd/gsap.js" />
+      <file href="html5/lib/scripts/umd/TextPlugin.js" />
+      <file href="html5/lib/scripts/umd/EasePack.js" />
+      <file href="html5/lib/scripts/umd/Observer.js" />
+      <file href="html5/lib/scripts/umd/PixiPlugin.js" />
+      <file href="html5/lib/scripts/umd/CustomEase.js" />
+      <file href="html5/lib/scripts/umd/Flip.js" />
+      <file href="html5/lib/scripts/umd/EaselPlugin.js" />
+      <file href="html5/lib/scripts/umd/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js" />
+      <file href="html5/lib/scripts/minified/.DS_Store" />
+      <file href="html5/lib/scripts/minified/gsap.min.js" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js.map" />
+      <file href="html5/lib/scripts/minified/EaselPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js.map" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js" />
+      <file href="html5/lib/scripts/minified/Observer.min.js.map" />
+      <file href="html5/lib/scripts/minified/gsap.min.js.map" />
+      <file href="html5/lib/scripts/minified/Flip.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js.map" />
+      <file href="html5/lib/scripts/minified/PixiPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js.map" />
+      <file href="html5/lib/scripts/minified/ScrollToPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/EasePack.min.js" />
+      <file href="html5/lib/scripts/minified/CustomEase.min.js.map" />
+      <file href="html5/lib/scripts/minified/CSSRulePlugin.min.js" />
+      <file href="html5/lib/scripts/minified/TextPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/MotionPathPlugin.min.js" />
+      <file href="html5/lib/scripts/minified/ScrollTrigger.min.js" />
+      <file href="html5/lib/scripts/minified/Draggable.min.js.map" />
+      <file href="html5/lib/scripts/src/Draggable.js" />
+      <file href="html5/lib/scripts/src/.DS_Store" />
+      <file href="html5/lib/scripts/src/MotionPathPlugin.js" />
+      <file href="html5/lib/scripts/src/all.js" />
+      <file href="html5/lib/scripts/src/ScrollTrigger.js" />
+      <file href="html5/lib/scripts/src/ScrollToPlugin.js" />
+      <file href="html5/lib/scripts/src/TextPlugin.js" />
+      <file href="html5/lib/scripts/src/gsap-core.js" />
+      <file href="html5/lib/scripts/src/EasePack.js" />
+      <file href="html5/lib/scripts/src/Observer.js" />
+      <file href="html5/lib/scripts/src/index.js" />
+      <file href="html5/lib/scripts/src/PixiPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSPlugin.js" />
+      <file href="html5/lib/scripts/src/CustomEase.js" />
+      <file href="html5/lib/scripts/src/Flip.js" />
+      <file href="html5/lib/scripts/src/EaselPlugin.js" />
+      <file href="html5/lib/scripts/src/CSSRulePlugin.js" />
+      <file href="html5/lib/scripts/src/utils/matrix.js" />
+      <file href="html5/lib/scripts/src/utils/paths.js" />
+      <file href="html5/lib/scripts/src/utils/strings.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5VFRgNPFsjT.js" />
+      <file href="html5/data/js/6F4NI1r0qtf.js" />
+      <file href="html5/data/js/6ZvLkiqd3na.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/5YEdJmzALAi.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6glHZnf6Vvq.js" />
+      <file href="html5/data/js/5zRWYAw34MM.js" />
+      <file href="html5/data/js/6UxJD2fkAF5.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
